@@ -2,7 +2,7 @@
 
 I'm a Research Microbiologist at [Environment and Climate Change Canada](https://ec.gc.ca/).
 
-My background is in environmental microbiology. Feel free to parse my thesis ["_Assessing toluene biodegradation potential in groundwater using molecular biological tools._"](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/27429)
+My background is in environmental microbiology. Feel free to parse my thesis ["Assessing toluene biodegradation potential in groundwater using molecular biological tools."](https://atrium.lib.uoguelph.ca/xmlui/handle/10214/27429)
 
 When I'm not busy, I like dabbling in computer science and data visulization.
 
